@@ -37,6 +37,7 @@ Runs on http://localhost:3000
 - Real-time notification updates
 - Responsive design for mobile and desktop
 ```
+<img width="683" height="1006" alt="Screenshot 2026-05-30 131725" src="https://github.com/user-attachments/assets/c061e037-24fc-4bca-a0b0-df945c40fc55" />
 
 Then add and push:
 
