@@ -3,14 +3,7 @@
 
 A full-stack campus notification platform for real-time updates on placements, events, and results.
 
-## Project Structure
 
-```
-├── logging_middleware/     # Reusable logging middleware
-├── notification_app_be/    # Backend API server
-├── notification_app_fe/    # Frontend React application
-└── notification_system_design.md  # System design documentation
-```
 
 ## Tech Stack
 
