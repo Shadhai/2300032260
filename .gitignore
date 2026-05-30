@@ -1,0 +1,8 @@
+node_modules/
+.env
+test_*.js
+*test*.js
+.DS_Store
+dist/
+build/
+*.log
