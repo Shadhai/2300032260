@@ -1,5 +1,3 @@
-Create `D:\afford\2300032260\README.md`:
-
 ```markdown
 # Campus Notification System
 
